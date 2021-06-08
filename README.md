@@ -40,7 +40,7 @@ He carries a gnarled darkwood staff -- that's as tall as he is -- which is adorn
   [dexterity]
     base               = +5 ⟪20 = 14 [base] + 2 [race] + 2 [asi] + 2 [asi]⟫
     saving_throw       = +9 ⟪prof [class]⟫
-    acrobatics         = +5
+    acrobatics         = +9 ⟪prof [class]⟫
     sleight_of_hand    = +5
     stealth            = +9 ⟪prof [class]⟫
   [constitution]
@@ -58,8 +58,8 @@ He carries a gnarled darkwood staff -- that's as tall as he is -- which is adorn
     base            = +3 ⟪16 = 15 [base] + 1 [race]⟫
     saving_throw    = +3 ⟪adv [race]⟫
     animal_handling = +3
-    insight         = +7 ⟪prof [class]⟫
-    medicine        = +3
+    insight         = +7 ⟪prof [subclass]⟫
+    medicine        = +7 ⟪prof [subclass]⟫
     perception      = +3
     survival        = +3
   [charisma]
@@ -72,7 +72,7 @@ He carries a gnarled darkwood staff -- that's as tall as he is -- which is adorn
   [other]
     languages = celestial, common, elvish, undercommon, quori
     weapons   = simple, shortsword
-    tools     = alchemist tools
+    tools     = alchemist tools, herbalism kit
     feats     = tough
 [combat]
   [stats]
