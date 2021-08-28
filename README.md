@@ -19,11 +19,11 @@ hero didn't make it), Setsu carries himself with a saccarine smile and fake do-g
 looking for new opportunities to spread his influence. 
 
 #### Description
-Setsu is a 27 year old Yuan-ti. He's 5'10" with exceptionally pale skin and jet black hair
-that he's dyed blond -- as stupid peasants seem to think that's more heroic for some reason.
-He has lines of green scales running up his neck and down his arms and legs that he tells
-people is a curse from a dastardly hag, but is really just because he's a Yuan-Ti. He wears
-elegant clothing emblazoned with whatever the locals think is the mark of a true savior.
+Setsu is a 27 year old Yuan-ti. He's 5'10" with exceptionally pale skin, green eyes and jet
+black hair that he's dyed blond -- as stupid peasants seem to think that's more heroic for
+some reason. He has lines of green scales running up his neck and down his arms and legs that
+he tells people is a curse from a dastardly hag, but is really just because he's a Yuan-Ti.
+He wears elegant clothing emblazoned with whatever the locals think is the mark of a true savior.
 
 #### Character Sheet
 ```ini
