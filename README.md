@@ -32,7 +32,7 @@ elegant clothing emblazoned with whatever the locals think is the mark of a true
   race       = Yuan-Ti Pureblood
   level      = 10
   class      = Warlock (The Crowd)
-  background = Celebrity Adventurer's Scion
+  background = Celebrity Adventurers Scion
   alignment  = Neutral Evil
 [skills/proficiencies]
   [strength]
