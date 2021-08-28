@@ -1,113 +1,111 @@
-### Vin'Ralis nir Xhira
+### Setsu
 
 #### Backstory
-Ralis is a Quori -- a formless, ageless being of pure Vitae. As a Quori has no Mana of its own it can't directly interact with the physical world. While some Quori forcibly take control of physical vessels, others make a Pact with a vessel and combine into a single entity. When a Quori made of positive quantities of Vitae makes a pact with a vessel the entity is known as a Kalashtar and when the Quori has negative quantities of Vitae the entity is known as an Inspired.
+Setsu is a Yuan-Ti Pureblood. As such, he is devoid of any real emotion and sees others
+as tools to an end -- namely ascension to godhood. All Yuan-Ti believe that if they
+accumulate enough power they'll be able to consume a diety and take their place of power.
+Setsu thinks that the whole usurpation approach is stupid, and definitely won't work.
+Instead he plans to become a god the old fashioned way: get enough people to worship him.
 
-Kalashtar retain the appearance of the vessel but gain slight elven qualities (such as pointed ears), blue-glowing tattoos called glowlines appear on the skin, and the vessel's eyes begin to glow. Both the Quori and the vessel share one mind, but control of the body is usually the vessel's.
+To that end Setsu has worked to insert himself into the best situations for gathering
+followers. He's served as a squire under a famous adventurer and traveled the world
+saving villages and stopping assasination attempts. Sure, he was the one who lead the
+monsters to the village and hired the hitmen in the first place, but his now-devout
+worshipers don't need to know that.
 
-Vin was born a human on the floating isle of Xhira, one of many islands in the Glittering Sea (a demiplane embedded within the Pale). His father a fisher and his mother an acolyte of Morgion, Vin's early life was uneventful. He spent most of his time in the temple, helping his mother tend to the diseased and injured that came to Morgion for help; while there he picked up his mother's extensive knowledge of disease and poisons.
-
-When Vin was seventeen an Inspired came to the temple in search of an artifact. When Vin's mother told him he didn't know where the artifact was, the Inspired barred the doors to the temple and burned it to the ground, killing everyone inside. Feeling powerless to stop the Inspired, Vin called out for anything that could give him power -- which attracted the attention of Ralis, who had been hunting the Inspired for their own reasons. Ralis appeared before Vin and offered a Pact. Vin agreed, but by the time the ritual completed the Inspired had already escaped. Vin'Ralis subsequently set off to find, and kill, the Inspired.
-
-For the past five and a half decades Vin'Ralis has been hunting down the Inspired, who has always managed to stay one step ahead. During his crusade he came across the Sorrowsworn, those devoted to rooting out the undead in the name of the Raven Queen. As the Inspired are a form of undead -- the negative Vitae Quori present as necromantic energy, and the Inspired use their Quori to create thralls -- Vin'Ralis saw it fit to join up. They have continued to hunt down the undead, always in search of their first foe.
-```
- ┌ Vessel name
- │    ┌ Quori name
- │    │    ┌ "from"
- │    │    │    ┌ location
-┌┴┐ ┌─┴─┐ ┌┴┐ ┌─┴─┐
-Vin'Ralis nir Xhira
-```
+Now separated from the hero (a dragon attacked a caravan; while Setsu heroically staved
+off the dragon long enough for the merchants to escape unfortuntely the goody-two-shoes
+hero didn't make it), Setsu carries himself with a saccarine smile and fake do-good attitude
+looking for new opportunities to spread his influence. 
 
 #### Description
-Vin is a 72-year-old Kalashtar. He has very pale skin, but he has crisscrossing tattoo-like lines that glow with a faint blue luminescence across his body due to his pact with Ralis. The patterning is heavily obscured by the heavy black and purple robes that he wears; to the point that the only evidence of the glowlines is on his hands and feet, which are uncovered. He wears a black raven mask that hides his facial features, but his eyes glow the same blue as his tattoos, bleeding through the lens of the mask.
-
-He carries a gnarled darkwood staff -- that's as tall as he is -- which is adorned with a latched lantern. The lantern has a faint blue fire burning within, but it's source is obscured by the heavy, misshapen glass on the exterior of the lantern body.
+Setsu is a 27 year old Yuan-ti. He's 5'10" with exceptionally pale skin and jet black hair
+that he's dyed blond -- as stupid peasants seem to think that's more heroic for some reason.
+He has lines of green scales running up his neck and down his arms and legs that he tells
+people is a curse from a dastardly hag, but is really just because he's a Yuan-Ti. He wears
+elegant clothing emblazoned with whatever the locals think is the mark of a true savior.
 
 #### Character Sheet
 ```ini
 [character_info]
-  name       = Vin’Ralis nir Xhira
-  race       = Kalashtar
-  level      = 11
-  class      = Monk (Way of Mercy)
-  background = Haunted One
+  name       = Setsu
+  race       = Yuan-Ti Pureblood
+  level      = 10
+  class      = Warlock (The Crowd)
+  background = Celebrity Adventurer's Scion
+  alignment  = Neutral Evil
 [skills/proficiencies]
   [strength]
-    base         = +0 ⟪10 = 10 [base]⟫
-    saving_throw = +4 ⟪prof [class]⟫
-    athletics    = +0
+    base         = -1 ⟪8 = 8 [base]⟫
+    saving_throw = -1
+    athletics    = -1
   [dexterity]
-    base               = +5 ⟪20 = 14 [base] + 2 [race] + 2 [asi] + 2 [asi]⟫
-    saving_throw       = +9 ⟪prof [class]⟫
-    acrobatics         = +9 ⟪prof [class]⟫
-    sleight_of_hand    = +5
-    stealth            = +9 ⟪prof [class]⟫
+    base               = +3 ⟪16 = 15 [base] + 1 [race]⟫
+    saving_throw       = +3
+    acrobatics         = +3
+    sleight_of_hand    = +3
+    stealth            = +3
   [constitution]
-    base         = +4 ⟪19 = 19 [amulet of health]⟫
-    saving_throw = +4
-  [intelligence]
-    base          = +0 ⟪10 = 10 [base]⟫
-    saving_throw  = +0
-    arcana        = +0
-    history       = +0
-    investigation = +4 ⟪prof [background]⟫
-    nature        = +0
-    religion      = +4 ⟪prof [background]⟫
-  [wisdom]
-    base            = +3 ⟪16 = 15 [base] + 1 [race]⟫
-    saving_throw    = +3 ⟪adv [race]⟫
-    animal_handling = +3
-    insight         = +7 ⟪prof [subclass]⟫
-    medicine        = +7 ⟪prof [subclass]⟫
-    perception      = +3
-    survival        = +3
-  [charisma]
     base         = +2 ⟪14 = 14 [base]⟫
     saving_throw = +2
-    deception    = +2
-    intimidation = +2
-    performance  = +2
-    persuasion   = +2
+  [intelligence]
+    base          = -1 ⟪8 = 8 [base]⟫
+    saving_throw  = -1
+    arcana        = -1
+    history       = -1
+    investigation = -1
+    nature        = -1
+    religion      = -1
+  [wisdom]
+    base            = +1 ⟪12 = 12 [base]⟫
+    saving_throw    = +5 ⟪prof [class]⟫
+    animal_handling = +1
+    insight         = +1
+    medicine        = +1
+    perception      = +1
+    survival        = +1
+  [charisma]
+    base         = +5 ⟪20 = 14 [base] + 2 [race] + 2 [asi] + 2 [asi]⟫
+    saving_throw = +9 ⟪prof [class]⟫
+    deception    = +13 ⟪prof [class], expr [win_over_the_masses]⟫
+    intimidation = +9 ⟪prof [class]⟫
+    performance  = +5 ⟪prof [background]⟫
+    persuasion   = +13 ⟪prof [background], expr [win_over_the_masses]⟫
   [other]
-    languages = celestial, common, elvish, undercommon, quori
-    weapons   = simple, shortsword
-    tools     = alchemist tools, herbalism kit
-    feats     = tough
+    languages = common, abyssal, draconic, elvish, dwarvish
+    weapons   = +2 rod of the pact keeper
+    feats     = inspiring leader
 [combat]
   [stats]
-    health     = 124 ⟪124 = 8 [level 1] + 50 [levels 2 - 11] + 44 [con modifier] + 22 [tough]⟫
-    ac         = 18 ⟪18 = 10 [base] + 5 [dex] + 3 [wis]⟫
-    initiative = +5
-    movement   = 50 ft ⟪50 = 30 [race] + 20 [class]⟫
-    ki_save    = 15 ⟪15 = 8 [base] + 3 [wis] + 4 [prof]⟫
-    ki_total   = 11, regain on short/long rest
+    health        = 75 ⟪75 = 8 [level 1] + 45 [levels 2 - 10] + 22 [con modifier]⟫
+    ac            = 16 ⟪16 = 13 [mage_armor] + 3 [dex]⟫
+    initiative    = +8 ⟪+8 = 3 [dex] + 5 [cha]⟫
+    movement      = 30 ft ⟪30 = 30 [race]⟫
+    spell_slots   = 2
+    spell_dc      = 19 ⟪19 = 8 [base] + 4 [prof] + 5 [cha] + 2 [rod_of_the_pact_keeper]⟫
+    spell_atk_mod = +11 ⟪+11 = 4 [prof] + 5 [cha] + 2 [rod_of_the_pact_keeper]⟫
+  [spellcasting]
+    eldritch_blast      = mod +5 
+    cantrip             = friends, mage_hand, minor_illusion
+    pact_of_the_tome    = guidance, message, viscious_mockery
+    book_of_secrets     = detect_magic, identify
+    far_scribe          = sending (to subscribers)
+    first_level         = command, guiding_bold, charm_person, hellish_rebuke
+    second_level        = detect_thoughts, skywrite, hold_person, misty_step
+    third_level         = beacon_of_hope, spirit_guardians, counterspell, hypnotic_pattern
+    fourth_level        = arcane_eye, charm_monster, blight, dimension_door
+    fifth_level         = commune, modify_memory, hold_person, negative_energy_flood
+    innate_spellcasting = poison_spray, suggestion x1
   [action]
-    attack = x2
-      lanternlight    = atk +10, dmg d8+6 ⟪+1 quarterstaff⟫
-      unarmed         = atk +9 , dmg d8+5 ⟪monk die⟫
-    hand_of_healing   = d8+5 healing, cure [blind, deaf, paralyze, poison, stun], cost 1 ki
-    stillness_of_mind = end charmed or frightened
-  [bonus]
-    unarmed_strike    = 1x attack.unarmed
-    flurry_of_blows   = 2x [attack.unarmed, hand_of_healing, hand_of_harm], cost 1 ki
-    patient_defense   = dodge, cost 1 ki
-    step_of_the_wind  = disengage/dash, cost 1 ki
-  [reaction]
-    deflect_missiles = subtract d10+9 from ranged attack
-    slow_fall        = reduce falling damage by 55
-  [conditional]
-    return_missiles = on deflect_missiles to 0, return as attack.unarmed 20/60ft, cost 1 ki
-    stunning_strike = on hit, force con save or stun, cost 1 ki
-    focused_aim     = on miss, increase roll by 2, cost 1 ki, stack to 3
-    evasion         = on dex save, half if fail, none if success
+    rod_of_the_pact_keeper = regain one spell slot per long rest
+    inspiring_leader       = give six creatures 15 temp hitpoints
   [passive]
-    hand_of_harm         = d8+3 extra damage, inflict poison, cost 1 ki
-    unarmored_movement   = run on vertical surfaces and liquid
-    ki_empowered_strikes = attacks are magical
-    purity_of_body       = immune to disease and poison
-    dual_mind            = advantage on wisdom saves
-    mental_discipline    = resistance to psychic damage
-    mind_link            = speak telepathically with one creature at a time within 110 feet
-    severed_from_dreams  = immune to spells that require dreaming    
+    darkvision            = see 60ft in darkness
+    magic_resistance      = advantage on saving throws against magic
+    poison_immunity       = immune to poison and poisoned condition
+    cloak_of_displacement = enemies have disadvantage to attack, unless take damage
+    backer_benefits       = roll d8 on backer benefits table after long rest
+    crowdsourced_magic    = attempt to cast spell with roll without spending slot
+    win_over_the_masses   = when ally makes cha check within 10ft add +5
+    gift_of_the_protector = can automatically revive one subscriber
 ```
