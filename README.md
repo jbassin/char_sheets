@@ -69,7 +69,7 @@ He wears elegant clothing emblazoned with whatever the locals think is the mark 
     saving_throw = +9 ⟪prof [class]⟫
     deception    = +13 ⟪prof [class], expr [win_over_the_masses]⟫
     intimidation = +9 ⟪prof [class]⟫
-    performance  = +5 ⟪prof [background]⟫
+    performance  = +9 ⟪prof [background]⟫
     persuasion   = +13 ⟪prof [background], expr [win_over_the_masses]⟫
   [other]
     languages = common, abyssal, draconic, elvish, dwarvish
